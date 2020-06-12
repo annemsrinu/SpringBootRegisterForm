@@ -1,0 +1,4 @@
+com\example\demo\SpringRegisterFormDemoApplication.class
+com\example\demo\Controller\LoginController.class
+com\example\demo\model\LoginForm.class
+com\example\demo\model\UserForm.class
